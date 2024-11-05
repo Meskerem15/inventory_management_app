@@ -1,16 +1,11 @@
-# inventory_management_app
+An Inventory Management App built using Flutter and Firebase Firestore. This app allows users to manage their inventory by adding, viewing, updating, and deleting items from a list.
 
-A new Flutter project.
+Features
 
-## Getting Started
+Add New Items: Easily add new items to the inventory with their name and quantity.
+View Inventory: Real-time display of all items stored in the inventory.
+Update Items: Modify item details directly from the inventory list.
+Delete Items: Remove items from the inventory when they are no longer needed.
+Firebase Integration: Uses Firebase Firestore as a backend database to manage inventory data.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
