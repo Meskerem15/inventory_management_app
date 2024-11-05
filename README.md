@@ -1,4 +1,6 @@
-Inventory Management App
+#Inventory Management App
+
+
 An Inventory Management App built using Flutter and Firebase Firestore. This app allows users to manage their inventory by adding, viewing, updating, and deleting items from a list.
 
 Features
